@@ -7,5 +7,4 @@ My Skills
 * Excel (Certified)
 * SQL (Advanced Queries, Data Manipulation, Optimization)
 * SSIS (SQL Server Integration Services)
-* Data Wrangling and Manipulation (Pandas, Numpy)
-* Data Visualization (Power BI, Excel)
+
